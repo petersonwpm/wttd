@@ -9,4 +9,5 @@ Scripts
 *.pyc
 *~
 *.sqlite3
+*.sublime*
 
